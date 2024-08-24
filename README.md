@@ -3,6 +3,8 @@ Panel Data Granger (Non-) Causality Test (DumitrescuHurlin (2012)) With Eviews 1
 
 Testing for Granger causality in panel data With Panel Granger (Non-)Causality Test (Dumitrescu/Hurlin (2012)) With Eviews 13
 
+https://www.youtube.com/watch?v=u0DkZyZ8zmo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
